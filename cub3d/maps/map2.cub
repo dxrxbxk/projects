@@ -1,0 +1,13 @@
+NO ./assets/greystone.xpm
+SO ./assets/red.xpm
+WE ./assets/ground.xpm
+EA ./assets/ground.xpm
+
+C 157,190,0
+F 128,30,61            
+
+1111111111111111
+1000010000000111
+1011110000000W11                                   
+1000000000000011                           
+1111111111111111                         
